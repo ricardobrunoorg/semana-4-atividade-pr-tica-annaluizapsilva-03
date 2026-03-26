@@ -21,4 +21,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<![Preview do site]>>
+<<![Preview do site](public/blog%20anna.png)>>
