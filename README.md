@@ -9,19 +9,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Anna Luiza Pereira Silva
+- Matricula:1656540
+- Proposta de projeto escolhida:Proposta 4(Exposições e peças)
+- Breve descrição sobre seu projeto:O projeto foi pensado para ajudar as pessoas a escolher suas peças/looks e deixas-las informadas sobre lançamentos de moda.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
+<<![Preview do site](public/wireframe.png)>>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<![Preview do site]>>
